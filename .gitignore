@@ -1,0 +1,28 @@
+# PHP logs and cache
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Mac and system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+nbproject/
+
+# Composer packages (if used)
+vendor/
+
+# Environment and sensitive config
+.env
+.env.*
+config.php
+
+# Personal editor settings
+*.sublime-workspace
+*.sublime-project
